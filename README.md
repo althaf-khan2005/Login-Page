@@ -51,11 +51,16 @@ dependencies:
    ```
 
 ## Screenshots  
-(Add some images of your login and home screens here)
+![Image](img1.png)
+
+![Image](img2.png)
+
+![Image](img3.png)
+
+
 
 ## Contributing  
 Pull requests are welcome. For major changes, open an issue first to discuss.  
 
 ## License  
 MIT License  
-
